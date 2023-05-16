@@ -12,7 +12,8 @@
      ¡Únete a mi viaje de aprendizaje y crecimiento en el mundo de la programación!
   <p/>
 </div>
-
+<hr>
+### Sobre mi
 <br>
 <div align="left">
   <h3>Languagues & Tools: </h3>
@@ -22,8 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="js" alt="js" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" tittle="bt" alt="bt" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="ms" alt="ms" width="40" height="40"/>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="ms" alt="ms" width="40" height="40"/>    
   </div>
 </div>
 
