@@ -12,6 +12,12 @@
      ¡Únete a mi viaje de aprendizaje y crecimiento en el mundo de la programación!
   <p/>
 </div>
-<br>
 
+<br>
+<div align="left">
+  <h3>Tools: </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widt="40px"/>
+  </div>
+</div>
 
