@@ -1,5 +1,8 @@
-<p align="center">Hi there 👋 Steven Layna</p>
 
-<img align="center" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
+<div align="center">
+  <p>Hi there 👋 Steven Layna</p>
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
+  <h2>Bienvenido a mi perfil  de Github</h2>
+</div>
 
-<h1 align="center">Bienvenido a mi perfil  de Github</h1>
+
