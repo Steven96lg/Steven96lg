@@ -13,7 +13,8 @@
   <p/>
 </div>
 <hr>
-### Sobre mi
+  ***
+  ### Sobre mi
 <br>
 <div align="left">
   <h3>Languagues & Tools: </h3>
