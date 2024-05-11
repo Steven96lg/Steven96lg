@@ -1,7 +1,6 @@
 
 <div>
-  <h1>Hi there 👋 I´m Steven Layna</1>
-  <h2>Bienvenido a mi perfil  de Github.</h2>
+  <h1>👋 Soy Steven Layna</1>
 </div>
 <br>
 <div align = "center">
