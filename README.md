@@ -1,7 +1,6 @@
 
 <div>
   <h1>👋 Hey, soy Steven Layna</1>
-    # STEVEN
 </div>
 <br>
 <div>
@@ -11,10 +10,6 @@
 </div>
 <hr>
 <br>
-<div align="left">
-  <h3>Languagues & Tools: </h3>  
-  [![Javascript]]
-</div>
-</div>
+[![Javascript]]
 
 
