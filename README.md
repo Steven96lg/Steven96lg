@@ -1,14 +1,12 @@
 
 <div>
-  <h1>👋 Soy Steven Layna</1>
+  <h1>👋 Hey, soy Steven Layna</1>
 </div>
 <br>
-<div align = "center">
-  <p>
-     Soy un entusiasta de la programación y un apasionado por el desarrollo de software.
-     Aquí encontrarás mis proyectos y contribuciones a la comunidad. 
-     ¡Únete a mi viaje de aprendizaje y crecimiento en el mundo de la programación!
-  <p/>
+<div>
+  Bienvenido a mi perfil de github!
+  Actualmente soy desarrollador front-end.
+  Cuento con 2+ años de experiencia.
 </div>
 <hr>
 <br>
