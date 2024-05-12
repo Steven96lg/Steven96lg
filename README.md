@@ -10,7 +10,7 @@
 </div>
 <hr>
 
-### Más en
+### Más en mis redes
 
 [![P](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://stevenlayna.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
