@@ -1,14 +1,30 @@
 
+
+<h4 align="center">Software Engineer exploring Cybersecurity in my free time.</h4>
 <div>
-  <h1>Hey 👋 </1>
-</div>
-<br>
-<div>
-  <strong>¡Bienvenido a mi perfil de GitHub!</strong> 
-  <p>¡Hola! Soy Steven Layna, un apasionado desarrollador front-end con más de 2 años de experiencia en la creación de interfaces de usuario atractivas y funcionales. Me encanta trabajar con tecnologías modernas y siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender algo nuevo.</p>
-<img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJrNzJ2dG8wMmM5c2gyaG1xZW16amt4enp3ajEwNnp3azlieG04bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
-</div>
+  <h5 align="center">👨‍💻 Software Engineer with experience in frontend development (React, Vue) and backend (Node.js, fastAPI).
+I’m currently exploring the world of Cybersecurity, combining my programming knowledge with secure development practices.
+In this profile, you’ll find personal projects and applications where I apply new technologies, reflecting my continuous growth as a professional. 🌱</h5>
 <hr>
+
+
+#### Techs and Tools 💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Lit](https://img.shields.io/badge/lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![fastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 🚀 Mis Proyectos.
 | Proyectos | Descripción |
@@ -23,17 +39,7 @@
 [![P](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://stevenlayna.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-layna-gonzalez-6aa96319b/)
 
-## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ### Mí enfoque actual.
 Actualmente, estoy enfocado en mejorar mis habilidades en Node js y MySql trabajando en proyectos personales para aplicar los conceptos aprendidos, tambien me gusta colaborar en proyectos de código abierto para mejorar mis habilidades tecnicas.
