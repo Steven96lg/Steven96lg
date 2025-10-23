@@ -5,6 +5,29 @@
   <h5 align="center">👨‍💻 Software Engineer with experience in frontend development (React, Vue) and backend (Node.js, fastAPI).
 I’m currently exploring the world of Cybersecurity, combining my programming knowledge with secure development practices.
 In this profile, you’ll find personal projects and applications where I apply new technologies, reflecting my continuous growth as a professional. 🌱</h5>
+
+<p align="center">
+  Contact me: <br>
+  
+<p align="center">
+  Find me at: <br/>
+  <a href="mailto:steven96.layna@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"
+      alt="G-mail"
+      height="35"
+    />
+  </a>
+  <a
+    href="www.linkedin.com/in/stevenlayna"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+    />
+  </a>
+</p>
 <hr>
 
 
@@ -24,6 +47,7 @@ In this profile, you’ll find personal projects and applications where I apply 
 ![fastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 
 ## 🚀 Mis Proyectos.
@@ -32,13 +56,6 @@ In this profile, you’ll find personal projects and applications where I apply 
 |[Barandales ARH](https://www.barandalesarh.com.mx/)   | Proyecto en colaboración con un compañero desarrollador Backend, se realizaron los respectivos requerimientos del cliente, para brindarle un servicío de calidad.  | 
 |[FakeStore](https://slg-fakestore.netlify.app/)   |En esta practica puse a prueba mis conocimientos adquridos en React, uso de Hooks useContext, useState, useEffect consumiendo la API fakestoreapi.  | 
 |[Rick and Morty API](https://steven-rickandmorty.netlify.app/)   | Este es un proyecto personal donde puse a prueba mis conocimientos, obtengo los datos desde la API de Rick and Morty para hacer una lista de algunos de los personajes que han aparecido durante la serie.  | 
-
-
-### Más en mis redes
-
-[![P](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://stevenlayna.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-layna-gonzalez-6aa96319b/)
-
 
 
 ### Mí enfoque actual.
