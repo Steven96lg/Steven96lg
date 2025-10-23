@@ -49,6 +49,9 @@ In this profile, you’ll find personal projects and applications where I apply 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+![](https://github-readme-stats.vercel.app/api?username=steven96lg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🚀 Mis Proyectos.
 | Proyectos | Descripción |
