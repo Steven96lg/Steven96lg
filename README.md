@@ -7,10 +7,7 @@ I’m currently exploring the world of Cybersecurity, combining my programming k
 In this profile, you’ll find personal projects and applications where I apply new technologies, reflecting my continuous growth as a professional. 🌱</h5>
 
 <p align="center">
-  Contact me: <br>
-  
-<p align="center">
-  Find me at: <br/>
+   Contact me: <br>
   <a href="mailto:steven96.layna@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"
