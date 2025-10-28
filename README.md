@@ -50,8 +50,8 @@ In this profile, you’ll find personal projects and applications where I apply 
 
 ![](https://github-readme-stats.vercel.app/api?username=steven96lg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-## 🚀 Mis Proyectos.
-| Proyectos | Descripción |
+## 🚀 Projects.
+| Project | Description |
 |----------|----------|
 |[Barandales ARH](https://www.barandalesarh.com.mx/)   |Image catalogue project for the company Barandales ARH, specialized in manufacturing stainless steel and tempered glass railings and handrails, with over 15 years of experience and a focus on “safety, luxury and affordable price.” The client’s requirements were carefully addressed to deliver a high-quality service. This project was carried out by me together with a fellow developer.  | 
 
