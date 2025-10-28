@@ -53,13 +53,8 @@ In this profile, you’ll find personal projects and applications where I apply 
 ## 🚀 Mis Proyectos.
 | Proyectos | Descripción |
 |----------|----------|
-|[Barandales ARH](https://www.barandalesarh.com.mx/)   | Proyecto en colaboración con un compañero desarrollador Backend, se realizaron los respectivos requerimientos del cliente, para brindarle un servicío de calidad.  | 
-|[FakeStore](https://slg-fakestore.netlify.app/)   |En esta practica puse a prueba mis conocimientos adquridos en React, uso de Hooks useContext, useState, useEffect consumiendo la API fakestoreapi.  | 
-|[Rick and Morty API](https://steven-rickandmorty.netlify.app/)   | Este es un proyecto personal donde puse a prueba mis conocimientos, obtengo los datos desde la API de Rick and Morty para hacer una lista de algunos de los personajes que han aparecido durante la serie.  | 
+|[Barandales ARH](https://www.barandalesarh.com.mx/)   |Image catalogue project for the company Barandales ARH, specialized in manufacturing stainless steel and tempered glass railings and handrails, with over 15 years of experience and a focus on “safety, luxury and affordable price.” The client’s requirements were carefully addressed to deliver a high-quality service. This project was carried out by me together with a fellow developer.  | 
 
-
-### Mí enfoque actual.
-Actualmente, estoy enfocado en mejorar mis habilidades en Node js y MySql trabajando en proyectos personales para aplicar los conceptos aprendidos, tambien me gusta colaborar en proyectos de código abierto para mejorar mis habilidades tecnicas.
 
 
 
