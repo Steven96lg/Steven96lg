@@ -54,6 +54,10 @@ In this profile, you’ll find personal projects and applications where I apply 
 | Project | Description |
 |----------|----------|
 |[Barandales ARH](https://www.barandalesarh.com.mx/)   |Image catalogue project for the company Barandales ARH, specialized in manufacturing stainless steel and tempered glass railings and handrails, with over 15 years of experience and a focus on “safety, luxury and affordable price.” The client’s requirements were carefully addressed to deliver a high-quality service. This project was carried out by me together with a fellow developer.  | 
+|[Mi blog](https://steven96lg.github.io/blog/)|Este blog es parte de mi camino como desarrollador.
+Aquí registro lo que estoy aprendiendo, abarca temas desde JavaScript y desarrollo web hasta mis primeros pasos en backend y ciberseguridad, con la intención de compartir mi progreso y aportar contenido útil a otros que están iniciando.
+
+Es un proyecto en constante evolución, igual que mi ruta profesional. |
 
 
 
