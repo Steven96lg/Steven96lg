@@ -4,7 +4,7 @@
 <div>
   <h5 align="center">👨‍💻 Software Engineer with experience in frontend development (React, Vue) and backend (Node.js, fastAPI).
 I’m currently exploring the world of Cybersecurity, combining my programming knowledge with secure development practices.
-In this profile, you’ll find personal projects and applications where I apply new technologies, reflecting my continuous growth as a professional. 🌱</h5>
+In this profile, you’ll find personal projects and applications where I apply new technologies, reflecting my continuous growth as a professional.</h5>
 
 <p align="center">
    Contact me: <br>
@@ -46,6 +46,10 @@ In this profile, you’ll find personal projects and applications where I apply 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+#### Learning...💡🧠 🌱
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 ![](https://github-readme-stats.vercel.app/api?username=steven96lg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
