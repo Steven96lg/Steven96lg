@@ -16,11 +16,20 @@ In this profile, you’ll find personal projects and applications where I apply 
     />
   </a>
   <a
-    href="www.linkedin.com/in/stevenlayna"
+    href="https://www.linkedin.com/in/stevenlayna"
     target="_blank"
   >
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+    />
+  </a>
+   <a
+    href="https://www.youtube.com/@stevlayna"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
       height="35"
     />
   </a>
