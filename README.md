@@ -68,7 +68,7 @@ In this profile, you’ll find personal projects and applications where I apply 
 ## 🚀 Projects.
 | Project | Description |
 |---------|-------------|
-| [Barandales ARH](https://www.barandalesarh.com.mx/) | Image catalogue project for the company Barandales ARH, specialized in manufacturing stainless steel and tempered glass railings and handrails, with over 15 years of experience and a focus on “safety, luxury, and affordable price.” The client's requirements were carefully addressed to deliver a high-quality service. This project was carried out by me together with a fellow developer. |
+| [Barandales ARH](https://www.barandalesarh.com/) | Image catalogue project for the company Barandales ARH, specialized in manufacturing stainless steel and tempered glass railings and handrails, with over 15 years of experience and a focus on “safety, luxury, and affordable price.” The client's requirements were carefully addressed to deliver a high-quality service. This project was carried out by me together with a fellow developer. |
 | [My Blog](https://steven96lg.github.io/blog/) | This blog is part of my journey as a developer. Here, I document what I am learning — covering topics from JavaScript and web development to my first steps in backend and cybersecurity — with the intention of sharing my progress and offering useful content to others who are just starting out. It is a project in constant evolution, just like my professional path. |
 | [Networking for Cybersecurity](https://github.com/Steven96lg/Networking-fundamentals) | A practical guide on how networks work, with the main focus on documenting my path to becoming a SOC Analyst, and of course that also serves as a guide to all those interested in the subject. |
 
